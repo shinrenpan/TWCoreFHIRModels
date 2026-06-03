@@ -124,7 +124,7 @@ TW Core IG 1.0.0 全部 33 個 Resource 均已實作。
 | `Device` | ✅ | 裝置 |
 | `QuestionnaireResponse` | ✅ | 問卷回覆 |
 
-各 Resource 的完整 API 說明請見 [Wiki](https://github.com/shinrenpan/TWCoreFHIRModels/wiki)。
+各 Resource 的完整 API 說明請見 **[Wiki](https://github.com/shinrenpan/TWCoreFHIRModels/wiki)**。
 
 ---
 
