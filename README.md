@@ -6,6 +6,8 @@
 [![TW Core IG](https://img.shields.io/badge/TW%20Core%20IG-1.0.0-blue)](https://twcore.mohw.gov.tw/ig/twcore/)
 [![FHIR](https://img.shields.io/badge/FHIR-R4%204.0.1-lightgrey)](https://hl7.org/fhir/R4/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Swift Package Index](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fshinrenpan%2FTWCoreFHIRModels%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/shinrenpan/TWCoreFHIRModels)
+[![Platforms](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fshinrenpan%2FTWCoreFHIRModels%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/shinrenpan/TWCoreFHIRModels)
 
 為台灣 iOS / Swift 開發者設計的 **TW Core IG** 擴充庫。
 
